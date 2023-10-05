@@ -1,2 +1,2 @@
-# site
+# site noticias
 SITE BÁSICO USANDO APENAS HTML E CSS
